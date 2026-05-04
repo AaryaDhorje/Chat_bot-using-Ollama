@@ -1,0 +1,3 @@
+MODEL_NAME = "llama3.2:latest"
+TEMPERATURE = 0
+RECURSION_LIMIT = 8
